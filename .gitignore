@@ -1,1 +1,4 @@
 /venv
+./react-tutorial/node_modules/
+./storybook/
+./node_modules
